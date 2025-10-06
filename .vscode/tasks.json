@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git > Save staged diff to diff.log",
+      "type": "shell",
+      "command": "git diff --cached > diff.log",
+      "problemMatcher": []
+    }
+  ]
+}
