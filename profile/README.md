@@ -2,8 +2,6 @@
 
 **Oolty** is a modern **full-stack web development company** dedicated to crafting scalable, high-performance applications with a focus on design, usability, and real-world impact.
 
----
-
 ## What We Do
 
 At Oolty, we bring your ideas to life through technology.
@@ -17,8 +15,6 @@ We specialize in **end-to-end web solutions**, from concept to deployment.
 - **Deployment & Optimization** – Scalable and reliable hosting solutions.
 - **AI Integration** – Intelligent, automated features powered by modern AI tools.
 
----
-
 ## Our Tech Stack
 
 | **Domain**     | **Languages & Frameworks**                               | **Databases & Infrastructure**          |
@@ -29,14 +25,10 @@ We specialize in **end-to-end web solutions**, from concept to deployment.
 | **Design**     | Figma                                                    | –                                       |
 | **AI & Tools** | ChatGPT, Copilot                                         | –                                       |
 
----
-
 ## Our Mission
 
 To empower businesses and individuals through **beautifully designed, scalable software** that makes a measurable difference.
 We believe in **clean code**, **thoughtful design**, and **continuous learning**.
-
----
 
 ## Let’s Work Together
 
